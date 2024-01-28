@@ -1,0 +1,4 @@
+
+require("stark")
+print("hello")
+
